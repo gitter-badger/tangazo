@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Tangazo</string>
     <string name="discover">Discover local Kenyan news...</string>
-    <string name="fingers">... and have it your fingertips.</string>
-    <string name="log">Kindly login to use all app\'s features.</string>
+    <string name="fingers">   ... and have it your fingertips.</string>
+    <string name="log">To enjoy all our features, Kindly login.</string>
 </resources>
