@@ -3,17 +3,11 @@
     android:layout_width="match_parent" android:layout_height="match_parent"
     android:background="@color/white">
 
-    <!--<ImageView-->
-        <!--android:layout_width="wrap_content"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:id="@+id/imageView"-->
-        <!--android:src="@mipmap/ic_launcher"-->
-        <!--android:layout_centerInParent="true"/>-->
-    <TextView
+    <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:textSize="60sp"
-        android:text="@string/app_name"/>
+        android:id="@+id/imageView"
+        android:src="@drawable/tangazologo"
+        android:layout_centerInParent="true"/>
 
 </RelativeLayout>
